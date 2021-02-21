@@ -5,4 +5,4 @@ The utlity is designed using selenium and it works in below manner:
 -The entry point function takes the file url / file name from  where the pdf needs o be downloaded, here selenium is used to initiate the file download if the pdf is located in any server.
 -Then the downloaded file is passed to the pdfVlidation function which performs the various actions on the PDF ie. to check the content, to check  for the blank pages, and gives the result baased on check
 
-Try this linbrary qoppa.com  as its maintaing a very tidy documentation for all the inbuilt functions 
+Try this library  https://www.qoppa.com/  in your project, as its maintaing a very tidy documentation for all the inbuilt functions 
