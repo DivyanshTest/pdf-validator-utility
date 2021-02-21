@@ -1,0 +1,19 @@
+webdriver intialization in selenium: single driver instance across all test classes
+Approach1
+create a static webdriver ref variable in the base class, and extend the class in all the test class
+base class: create a constuctor and inside that call taht method in the constructor to insitialize the driver instamce
+Appraoch2
+singleton design pattern using singleton class
+-create a class
+-create aa static instace or object of the class ie: ststic classA ref =  new ClassA();
+-create a  private cnstructor
+-create a static method to return the obj reference
+
+
+lazy initailization
+
+public static 
+
+
+
+
