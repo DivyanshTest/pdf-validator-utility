@@ -1,5 +1,5 @@
 **PDF Validator Utility**
-The PDF Validator Utility is a tool developed using the Qoppa PDF library in Java. This utility is designed to validate PDF files by checking their content and identifying any blank pages. The required JAR files for the Qoppa PDF library can be downloaded from here.
+The PDF Validator Utility is a tool developed using the Qoppa PDF library in Java. This utility is designed to validate PDF files by checking their content and identifying any blank pages. The required JAR files for the Qoppa PDF library can be downloaded from [here](https://www.qoppa.com/download2018r1/).
 
 **Overview**
 The utility works as follows:
